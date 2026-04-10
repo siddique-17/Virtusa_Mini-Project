@@ -1,6 +1,3 @@
-Got it 👍 — here’s a clean and professional **README.md** for your SQL project without mentioning the actual queries:  
-
----
 
 # 🛒 Retail Store Database (SQL Project)
 
