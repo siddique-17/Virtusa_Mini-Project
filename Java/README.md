@@ -87,21 +87,4 @@ Follow these steps to configure and run the project:
 
 ---
 
-##  Usage
-
-When the application runs, it displays a menu-driven interface such as:
-
-```
-==== Library Management System ====
-1. Add Book
-2. View Books
-3. Search Book
-4. Register User
-5. Issue Book
-6. Return Book
-7. Exit
-```
-
-Choose an option by entering the respective number and follow the instructions on the screen.  
-All data is stored and retrieved from the MySQL database.
 
