@@ -1,22 +1,22 @@
 
 
-# 💰 Smart Expense Tracker (Python CLI)
+#  Smart Expense Tracker (Python CLI)
 
 A simple command-line **Expense Tracker** built using Python that helps you record daily expenses, view reports, and visualize category-wise spending with charts.
 
 ---
 
-## 🚀 Features
+##  Features
 
-✅ Add and save daily expenses  
-✅ View all expenses from the CSV file  
-✅ Get monthly total expense summary  
-✅ Visualize your spending by category (Pie Chart)  
-✅ Automatically creates `expenses.csv` on first run  
+- Add and save daily expenses  
+- View all expenses from the CSV file  
+- Get monthly total expense summary  
+- Visualize your spending by category (Pie Chart)  
+- Automatically creates `expenses.csv` on first run  
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - **Python 3**
 - **CSV module** (for data storage)
@@ -25,7 +25,7 @@ A simple command-line **Expense Tracker** built using Python that helps you reco
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1. **Clone the repository**
 
@@ -48,7 +48,7 @@ A simple command-line **Expense Tracker** built using Python that helps you reco
 
 ---
 
-## 💡 How It Works
+##  How It Works
 
 When you run the application, you’ll see a menu like this:
 
@@ -61,24 +61,24 @@ When you run the application, you’ll see a menu like this:
 5. Exit
 ```
 
-### 1️⃣ Add Expense
+### 1️ Add Expense
 - Enter the date (or press Enter to use today’s date)
 - Choose a category (Food, Travel, Bills, Others)
 - Enter amount and description  
 The record gets saved in `expenses.csv`.
 
-### 2️⃣ View Expenses
+### 2️ View Expenses
 Displays all previous records stored in the CSV file.
 
-### 3️⃣ Monthly Summary
+### 3️ Monthly Summary
 Input a month (e.g., `2024-07`) to view your total spending for that month.
 
-### 4️⃣ Category Analysis
+### 4️ Category Analysis
 Shows which category you spent the most in and displays a colorful pie chart of spending distribution.
 
 ---
 
-## 📊 File Format
+##  File Format
 
 The data is stored in a CSV file named `expenses.csv` in the following format:
 
@@ -89,7 +89,7 @@ The data is stored in a CSV file named `expenses.csv` in the following format:
 
 ---
 
-## 🧩 Future Enhancements
+##  Future Enhancements
 
 - Add budget limits and alerts  
 - Export reports as PDF  
