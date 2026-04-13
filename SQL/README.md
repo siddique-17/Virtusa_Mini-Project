@@ -1,12 +1,12 @@
 
-# 🛒 Retail Store Database (SQL Project)
+#  Retail Store Database (SQL Project)
 
 This project demonstrates a **Retail Store Management System** using SQL.  
 It models customers, products, orders, and order items, enabling analysis of sales performance and customer behavior.
 
 ---
 
-## 📘 Overview
+##  Overview
 
 The goal of this project is to design and build a simple **relational database** for a retail business.  
 It provides a structure to record:
@@ -24,7 +24,7 @@ Additionally, it allows generating insights such as:
 
 ---
 
-## 🧱 Database Schema
+##  Database Schema
 
 The database contains **four main tables**:
 
@@ -37,25 +37,25 @@ The database contains **four main tables**:
 
 ---
 
-## 🗂️ Table Structure Summary
+##  Table Structure Summary
 
-### 🧑 Customers
+###  Customers
 - `customer_id` — Unique customer identifier (Primary Key)  
 - `name` — Customer’s name  
 - `city` — Customer’s city  
 
-### 📦 Products
+###  Products
 - `product_id` — Unique product identifier (Primary Key)  
 - `name` — Product name  
 - `category` — Product category (e.g., Electronics, Fashion)  
 - `price` — Unit price  
 
-### 🧾 Orders
+###  Orders
 - `order_id` — Unique order identifier (Primary Key)  
 - `customer_id` — Linked to the customer who made the order  
 - `order_date` — Date when the order was placed  
 
-### 📋 Order_Items
+###  Order_Items
 - `order_id` — Linked to the related order  
 - `product_id` — Linked to the purchased product  
 - `quantity` — Number of items ordered  
@@ -64,7 +64,7 @@ The database contains **four main tables**:
 
 ---
 
-## 💾 Sample Data
+##  Sample Data
 
 Example entries are included for all tables:
 
@@ -77,7 +77,7 @@ This sample dataset helps in testing and demonstrating analytical queries.
 
 ---
 
-## 📊 Insights You Can Generate
+##  Insights You Can Generate
 
 Using this database, you can easily analyze:
 
@@ -89,7 +89,7 @@ Using this database, you can easily analyze:
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 1. Open your SQL environment (**Oracle**, **MySQL**, or any compatible database**).  
 2. Copy and execute the SQL script in order:  
@@ -100,7 +100,7 @@ Using this database, you can easily analyze:
 
 ---
 
-## 🧩 Use Cases
+##  Use Cases
 
 - Retail sales analysis  
 - Customer purchase behavior tracking  
