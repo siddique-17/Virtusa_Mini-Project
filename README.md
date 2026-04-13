@@ -1,5 +1,5 @@
 
-# 💻 Multi-Project Portfolio
+# 💻 Virtusa Mini projects
 
 This repository contains three mini-projects developed using **Python**, **SQL**, and **Java**.  
 Each project demonstrates distinct programming concepts — from file handling and data visualization to database design and full-stack logic.
